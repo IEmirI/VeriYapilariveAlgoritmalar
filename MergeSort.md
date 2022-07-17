@@ -21,3 +21,5 @@
 * Big-O gösterimini yazınız.
 
    O(n * logn) -> O(6 * log6)
+
+# [patika.dev](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje)
