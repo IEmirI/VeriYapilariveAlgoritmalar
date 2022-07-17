@@ -20,7 +20,7 @@ Best case: Aradığımız sayının dizinin en başında olması.
 
 5-) [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
-### 1- Insertion Sort Aşamaları
+### 1-) Insertion Sort Aşamaları
 
 ```
 [22,27,16,2,18,6],
@@ -29,7 +29,7 @@ Best case: Aradığımız sayının dizinin en başında olması.
 [2,6,16,18,22,27].
 ```
 
-### 2- Big O Notation Gösterimi
+### 2-) Big O Notation Gösterimi
 
 ```
 Best Case : O(n),
@@ -37,21 +37,21 @@ Worst Case : O(n^2),
 Avarage Case : O(n^2).
 ```
 
-### 3- Time Complexity
+### 3-) Time Complexity
 
 ```
 Best Case : [2,6,16,18,22,27],
 Worst Case : [27,22,18,16,6,2].
 ```
 
-### 4- 18 Sayısının Case Durumu
+### 4-) 18 Sayısının Case Durumu
 
 ```
 Dizimiz sıralandıktan sonra 18 sayısı tam ortada yer almaktadır. Bu sebeple avarage case sayılabilir.
 Dizimizin son durumu [2,6,16,18,22,27] olmaktadır.
 ```
 
-### 5- [7,3,5,8,2,9,4,15,6] Dizisinin İlk 4 Adımı
+### 5-) [7,3,5,8,2,9,4,15,6] Dizisinin İlk 4 Adımı
 
 ```
 [7,3,5,8,2,9,4,15,6]
