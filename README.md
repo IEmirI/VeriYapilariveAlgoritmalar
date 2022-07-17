@@ -40,6 +40,7 @@ Avarage Case : O(n^2).
 ### 3-) Time Complexity
 
 ```
+Average case:[2,6,16,18,22,27]
 Best Case : [2,6,16,18,22,27],
 Worst Case : [27,22,18,16,6,2].
 ```
