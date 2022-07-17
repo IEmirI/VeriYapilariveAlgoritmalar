@@ -47,7 +47,8 @@ Worst Case : [27,22,18,16,6,2].
 ### 4- 18 Sayısının Case Durumu
 
 ```
-Dizimiz sıralandıktan sonra 18 sayısı tam ortada yer almaktadır. Bu sebeple avarage case sayılabilir. Dizimizin son durumu [2,6,16,18,22,27] olmaktadır.
+Dizimiz sıralandıktan sonra 18 sayısı tam ortada yer almaktadır. Bu sebeple avarage case sayılabilir.
+Dizimizin son durumu [2,6,16,18,22,27] olmaktadır.
 ```
 
 ### 5- [7,3,5,8,2,9,4,15,6] Dizisinin İlk 4 Adımı
