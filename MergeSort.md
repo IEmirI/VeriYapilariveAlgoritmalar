@@ -20,4 +20,4 @@
 
 * Big-O gösterimini yazınız.
 
-   O(n*logn) -> O(6*log6)
+   O(n * logn) -> O(6 * log6)
