@@ -20,8 +20,4 @@
 
 * Big-O gösterimini yazınız.
 
-  Worst case   : O(n*logn)
-
-  Average case : O(n*logn)
-
-  Best case    : O(n*logn)
+   O(n*logn) -> O(6*log6)
